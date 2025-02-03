@@ -24,7 +24,7 @@ A collection of projects exploring different web and mobile technologies, focusi
    - **[Online Quiz with Vue.js & Vuetify]** – Built an interactive quiz platform using **Vue.js** and **Vuetify**, leveraging **Material Design**.  
    - **[Online Quiz with React.js]** – Created a quiz system using **React.js**, focusing on modular and reusable components with **RWD**.  
    - **[VR-360 Self-Introduction Website (A-Frame)]** – Developed a **VR-360** self-introduction webpage using **A-Frame**, integrating **3D models** for an immersive experience.  
-   - **[Camera App with React Native & Expo]** – Built a **mobile camera application** using **React Native** and **Expo**, allowing users to take and manage photos.  
+   - **[Camera App with React Native & Expo]** – Built a **mobile camera application** using **React Native** and **Expo**.  
 
 📌 **See it in action:** 👉 [Live Demo](https://napasornsu.github.io/web2024/)  
 

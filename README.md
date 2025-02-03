@@ -17,7 +17,7 @@ Designed UI/UX with Figma & developed the frontend using Bootstrap.
 🔹 **[Phone Number Checking App](https://github.com/napasornsu/Project-CallerCheck-Application.git)** – *Mobile App Developer*  
 Built a scam-detection app with Kotlin & Firebase, including admin & user functionalities.  
 
-🔹 **[Web2024](https://napasornsu.github.io/web2024/)** – *Web & Mobile Development*  
+🔹 **[Web2024](https://github.com/napasornsu/web2024.git)** – *Web & Mobile Development*  
 A collection of projects exploring different web and mobile technologies, focusing on modern UI frameworks and interactive experiences.  
 
    - **[Online Quiz with jQuery & Bootstrap]** – Developed an online quiz interface using **jQuery** and **Bootstrap**, with **Responsive Web Design (RWD)**.  

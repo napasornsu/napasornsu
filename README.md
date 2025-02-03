@@ -9,7 +9,7 @@ I'm a **Computer Science student** passionate about **web development**, **mobil
 
 ### 🚀 Projects  
 🔹 **[CS Fitness System](https://github.com/theeraphatKKU/Fitness-Project-FE.git)** – *Frontend Developer*
-*Developed a fitness management system using React.js & Spring Boot*  
+Developed a fitness management system using React.js & Spring Boot  
 
 🔹 **[Vimandin Spa Feedback System](https://github.com/napasorns/project-database.git)** – *UI/UX & Frontend Developer*  
 Designed UI/UX with Figma & developed the frontend using Bootstrap.  
